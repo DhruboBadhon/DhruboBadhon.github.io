@@ -1,0 +1,635 @@
+.mediaViewInfo {
+	--web-view-name: Works;
+	--web-view-id: Works;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Works;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Works {
+	position: absolute;
+	width: 1920px;
+	height: 2736px;
+	background-color: rgba(242,242,234,1);
+	overflow: hidden;
+	--web-view-name: Works;
+	--web-view-id: Works;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Dhruba_Chandra_Roy {
+	left: 229px;
+	top: 179px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(10,10,10,1);
+}
+#Component_3__7 {
+	position: absolute;
+	width: 45px;
+	height: 21px;
+	left: 230px;
+	top: 344px;
+	overflow: visible;
+}
+#works {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(11,79,196,1);
+}
+#Component_4__7 {
+	position: absolute;
+	width: 44px;
+	height: 21px;
+	left: 230px;
+	top: 382px;
+	overflow: visible;
+	--web-animation: fadein 0.6s ease-out;
+	--web-action-type: view;
+	--web-action-target: AboutPage;
+	cursor: pointer;
+}
+#about {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(84,84,84,1);
+}
+#Component_5__7 {
+	position: absolute;
+	width: 37px;
+	height: 21px;
+	left: 230px;
+	top: 420px;
+	overflow: visible;
+	--web-animation: fadein 0.2s snap;
+	--web-action-type: view;
+	--web-action-target: Works__1;
+	cursor: pointer;
+}
+#shop {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(84,84,84,1);
+}
+#Component_6__7 {
+	position: absolute;
+	width: 54px;
+	height: 20px;
+	left: 230px;
+	top: 458px;
+	overflow: visible;
+	--web-animation: fadein 0.2s snap;
+	--web-action-type: view;
+	--web-action-target: ContactPage;
+	cursor: pointer;
+}
+#Contact {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(84,84,84,1);
+}
+#Group_25 {
+	position: absolute;
+	width: 91.559px;
+	height: 16.067px;
+	left: 229px;
+	top: 884.965px;
+	overflow: visible;
+}
+#Group_9 {
+	position: absolute;
+	width: 91.559px;
+	height: 16.067px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#facebook-24px {
+	position: absolute;
+	width: 16.067px;
+	height: 16.067px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_401 {
+	fill: transparent;
+}
+.Rectangle_401 {
+	position: absolute;
+	overflow: visible;
+	width: 16.067px;
+	height: 16.067px;
+	left: 0px;
+	top: 0px;
+}
+#Path_125 {
+	fill: rgba(84,84,84,1);
+}
+.Path_125 {
+	overflow: visible;
+	position: absolute;
+	width: 13.389px;
+	height: 13.355px;
+	left: 1.339px;
+	top: 1.339px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#iconfinder_198-Twitter_192156 {
+	position: absolute;
+	width: 15.644px;
+	height: 12.715px;
+	left: 26.778px;
+	top: 1.847px;
+	overflow: visible;
+}
+#Component_24__8 {
+	position: absolute;
+	width: 15.644px;
+	height: 12.715px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_126 {
+	fill: rgba(84,84,84,1);
+}
+.Path_126 {
+	overflow: visible;
+	position: absolute;
+	width: 15.644px;
+	height: 12.715px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#iconfinder_instagram_4691240 {
+	position: absolute;
+	width: 13.627px;
+	height: 13.627px;
+	left: 53.556px;
+	top: 1.385px;
+	overflow: visible;
+}
+#iconfinder_instagram_4691240_ {
+	fill: rgba(84,84,84,1);
+}
+.iconfinder_instagram_4691240_ {
+	overflow: visible;
+	position: absolute;
+	width: 13.627px;
+	height: 13.627px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#iconfinder_Rounded_Linkedin2_s {
+	position: absolute;
+	width: 13.534px;
+	height: 13.534px;
+	left: 78.025px;
+	top: 1.385px;
+	overflow: visible;
+}
+#iconfinder_Rounded_Linkedin2_s_bb {
+	fill: rgba(84,84,84,1);
+}
+.iconfinder_Rounded_Linkedin2_s_bb {
+	overflow: visible;
+	position: absolute;
+	width: 13.534px;
+	height: 13.534px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_409_bd {
+	fill: url(#Rectangle_409_bd);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_409_bd {
+	filter: drop-shadow(20px 20px 30px rgba(155, 150, 119, 0.322));
+	position: absolute;
+	overflow: visible;
+	width: 1327px;
+	height: 2456px;
+	left: 453px;
+	top: 185px;
+}
+#Component_25__1 {
+	position: absolute;
+	width: 92px;
+	height: 22px;
+	left: 1158px;
+	top: 199px;
+	overflow: visible;
+	transition: all 0.3s snap;
+	--web-animation: fadein 0.3s snap;
+	--web-action-type: view;
+	--web-action-target: selfportraits;
+	cursor: pointer;
+}
+#self_portraits {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(170,170,170,1);
+}
+#All {
+	left: 1105px;
+	top: 199px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(11,79,196,1);
+}
+#Component_26__1 {
+	position: absolute;
+	width: 118px;
+	height: 22px;
+	left: 1285px;
+	top: 199px;
+	overflow: visible;
+}
+#Recent_artworks {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(170,170,170,1);
+}
+#Component_27__1 {
+	position: absolute;
+	width: 66px;
+	height: 22px;
+	left: 1437px;
+	top: 199px;
+	overflow: visible;
+}
+#Old_ones {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(170,170,170,1);
+}
+#Component_28__1 {
+	position: absolute;
+	width: 126px;
+	height: 22px;
+	left: 1537px;
+	top: 199px;
+	overflow: visible;
+}
+#From_sketchbook {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(170,170,170,1);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(11,79,196,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 21px;
+	height: 1px;
+	left: 1104.5px;
+	top: 219.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#selfsadakalo3 {
+	position: absolute;
+	width: 379px;
+	height: 379px;
+	left: 483px;
+	top: 769px;
+	overflow: visible;
+}
+#selfsadakalo3_bp {
+	position: absolute;
+	width: 379px;
+	height: 379px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo_3 {
+	position: absolute;
+	width: 414.151px;
+	height: 333px;
+	left: 887px;
+	top: 241px;
+	overflow: visible;
+}
+#sadakalo_3_br {
+	position: absolute;
+	width: 414.151px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo2 {
+	position: absolute;
+	width: 381px;
+	height: 507px;
+	left: 483px;
+	top: 241px;
+	overflow: visible;
+}
+#sadakalo2_bt {
+	position: absolute;
+	width: 381px;
+	height: 507px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo {
+	position: absolute;
+	width: 413px;
+	height: 550px;
+	left: 888px;
+	top: 597px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: SingleArtwork;
+	cursor: pointer;
+}
+#sadakalo_bv {
+	position: absolute;
+	width: 413px;
+	height: 550px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: SingleArtwork;
+	cursor: pointer;
+}
+#sadakao7 {
+	position: absolute;
+	width: 611.5px;
+	height: 377.709px;
+	left: 483px;
+	top: 1171.5px;
+	overflow: visible;
+}
+#sadakao7_bx {
+	position: absolute;
+	width: 611.5px;
+	height: 377.709px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo6 {
+	position: absolute;
+	width: 547.488px;
+	height: 338.57px;
+	left: 1116.884px;
+	top: 1611.127px;
+	overflow: visible;
+}
+#sadakalo6_bz {
+	position: absolute;
+	width: 547.441px;
+	height: 338.15px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo8 {
+	position: absolute;
+	width: 609px;
+	height: 376px;
+	left: 484px;
+	top: 1573px;
+	overflow: visible;
+}
+#sadakalo8_b {
+	position: absolute;
+	width: 609px;
+	height: 376px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#selfsadakalo_4 {
+	position: absolute;
+	width: 339px;
+	height: 339px;
+	left: 1325px;
+	top: 809px;
+	overflow: visible;
+}
+#selfsadakalo_4_b {
+	position: absolute;
+	width: 339px;
+	height: 339px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo_4 {
+	position: absolute;
+	width: 339px;
+	height: 545px;
+	left: 1324px;
+	top: 240px;
+	overflow: visible;
+}
+#sadakalo_4_b {
+	position: absolute;
+	width: 339px;
+	height: 545px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo10 {
+	position: absolute;
+	width: 264px;
+	height: 428px;
+	left: 484px;
+	top: 1973px;
+	overflow: visible;
+}
+#sadakalo10_b {
+	position: absolute;
+	width: 264px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#selfsadakalo2 {
+	position: absolute;
+	width: 236px;
+	height: 236px;
+	left: 1429px;
+	top: 1973px;
+	overflow: visible;
+}
+#selfsadakalo2_b {
+	position: absolute;
+	width: 236px;
+	height: 236px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo_11 {
+	position: absolute;
+	width: 547.488px;
+	height: 412.327px;
+	left: 1117.884px;
+	top: 1172.5px;
+	overflow: visible;
+}
+#sadakalo_11_cb {
+	position: absolute;
+	width: 547.488px;
+	height: 412.327px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sadakalo5 {
+	position: absolute;
+	width: 637px;
+	height: 428px;
+	left: 770px;
+	top: 1973px;
+	overflow: visible;
+}
+#sadakalo5_cd {
+	position: absolute;
+	width: 637px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
